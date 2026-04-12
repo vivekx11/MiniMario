@@ -75,7 +75,7 @@ public abstract class Enemy
 public class WalkerEnemy : Enemy
 {
     private float _direction = 1f; // 1 = right, -1 = left
-    private float _patrolDistance = 200f;
+    private float _patrolDistance = 200f;// distance 
     private Vector2 _startPosition;
     
     public WalkerEnemy(Vector2 position)

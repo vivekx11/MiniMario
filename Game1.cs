@@ -8,7 +8,7 @@ namespace MiniMario;
 
 public class Game1 : Game
 {
-    // ===== GRAPHICS & RENDERING =====
+    // ===== GRAPHICS & RENDERING ======
     private GraphicsDeviceManager _graphics;
     private SpriteBatch _spriteBatch;
     private Texture2D _pixelTexture; // Simple 1x1 white texture for drawing rectangles

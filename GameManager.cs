@@ -247,7 +247,7 @@ public class GameManager : Game
         
         // Update current state
         _currentState?.Update(gameTime);
-        
+        // Update
         base.Update(gameTime);
     }
     

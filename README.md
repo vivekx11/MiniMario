@@ -1,4 +1,4 @@
-# Mini Mario - Advanced 2D Platformer
+# Mini Mario - 
 
 A complete, professional 2D platformer game built with MonoGame Framework featuring advanced physics, multiple enemy types, and three challenging levels.
 

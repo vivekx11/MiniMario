@@ -52,7 +52,7 @@ public class Camera
     
     /// <summary>
     /// Gets parallax offset for background layers
-    /// </summary>
+    /// </summary>..
     public Vector2 GetParallaxOffset(float parallaxFactor)
     {
         return new Vector2(Position.X * parallaxFactor, Position.Y * parallaxFactor);

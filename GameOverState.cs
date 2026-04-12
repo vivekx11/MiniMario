@@ -110,7 +110,7 @@ public class GameOverState : IGameState
             // Add wave animation
             float wave = (float)Math.Sin(_animationTimer * 2 + i * 0.3f) * 5 * scale;
             charPos.Y += wave;
-            
+            //Object
             Rectangle charRect = new Rectangle((int)charPos.X, (int)charPos.Y, 8 * scale, 14 * scale);
             
             // Draw shadow

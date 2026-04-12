@@ -40,6 +40,7 @@ public class InputHelper
     /// </summary>
     public bool IsKeyReleased(Keys key)
     {
+        // input 
         return !_currentKeyboardState.IsKeyDown(key) && _previousKeyboardState.IsKeyDown(key);
     }
 }

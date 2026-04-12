@@ -37,7 +37,7 @@ public static class Constants
     public const float JumperSpeed = 60f;
     public const float JumperJumpForce = -500f;
     public const float JumperJumpInterval = 2.0f;    // seconds between jumps
-    public const float EnemyStompBounce = -400f;     // bounce when stomping enemy
+    public const float EnemyStompBounce = -400f;     // bounce when stomping enemy.
     public const int EnemySize = 32;
     
     // ===== SCORING =====

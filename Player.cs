@@ -36,7 +36,8 @@ public class Player
     // Animation state
     private enum AnimationState { Idle, Walking, Jumping, Falling }
     private AnimationState _currentState = AnimationState.Idle;
-    
+
+    //player move
     public Rectangle Bounds => new Rectangle(
         (int)Position.X,
         (int)Position.Y,

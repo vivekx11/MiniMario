@@ -1,2 +1,3 @@
-﻿using var game = new MiniMario.GameManager();
+// run the game 
+using var game = new MiniMario.GameManager();
 game.Run();

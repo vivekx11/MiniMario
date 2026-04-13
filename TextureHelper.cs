@@ -57,6 +57,7 @@ public static class TextureHelper
             
             for (int x = 0; x < width; x++)
             {
+                // entry level
                 data[y * width + x] = color;
             }
         }

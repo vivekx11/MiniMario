@@ -5,7 +5,7 @@ namespace MiniMario;
 /// </summary>
 public static class Constants
 {
-    // ===== SCREEN & RENDERING =====
+    // ===== SCREEN & RENDERING ========
     public const int ScreenWidth = 1280;
     public const int ScreenHeight = 720;
     public const int TileSize = 32;

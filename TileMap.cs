@@ -108,6 +108,7 @@ public class TileMap
     /// </summary>
     public bool IsPlatform(int gridX, int gridY)
     {
+        // platform based 
         return GetTileAt(gridX, gridY) == Constants.TilePlatform;
     }
     

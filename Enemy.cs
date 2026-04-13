@@ -48,6 +48,7 @@ public abstract class Enemy
     /// <summary>
     /// Handles collision with tilemap
     /// </summary>
+    // maping
     protected void HandleTileCollision(TileMap tileMap)
     {
         Rectangle bounds = Bounds;

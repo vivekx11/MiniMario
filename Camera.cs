@@ -14,7 +14,7 @@ public class Camera
     
     /// <summary>
     /// Initializes camera with world boundaries
-    /// </summary>
+
     public void Initialize(int worldWidth, int worldHeight)
     {
         _worldBounds = new Rectangle(0, 0, worldWidth, worldHeight);

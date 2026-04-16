@@ -16,7 +16,7 @@ public static class Constants
     public const float Friction = 0.85f;             // ground friction multiplier
     public const float AirResistance = 0.95f;        // air friction multiplier
     
-    // ===== PLAYER MOVEMENT =====
+    // ===== PLAYER MOVEMENT ========
     public const float MoveSpeed = 220f;             // horizontal movement speed (pixels/sec)
     public const float MoveAcceleration = 2500f;     // how fast player accelerates
     public const float JumpForce = -620f;            // initial jump velocity (negative = up)

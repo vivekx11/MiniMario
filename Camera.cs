@@ -5,7 +5,7 @@ namespace MiniMario;
 
 /// <summary>
 /// Camera system with smooth following and parallax support
-/// 
+/// basic update 
 public class Camera
 {
     public Vector2 Position;

@@ -6,7 +6,7 @@ namespace MiniMario;
 
 /// <summary>
 /// Base class for all enemy types
-/// 
+/// basic update 
 public abstract class Enemy
 {
     public Vector2 Position;

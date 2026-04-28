@@ -1,4 +1,4 @@
-// import the file 
+// import the file for game 
 
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;

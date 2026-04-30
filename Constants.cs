@@ -2,7 +2,7 @@ namespace MiniMario;
 
 /// <summary>
 /// Global constants for game physics, rendering, and gameplay parameters
-/// 
+/// public state 
 public static class Constants
 {
     // ===== SCREEN & RENDERING ========

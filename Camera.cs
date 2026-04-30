@@ -1,6 +1,6 @@
 
 
-// ifile 
+// this is camera.cs  
 
 using Microsoft.Xna.Framework;
 using System;

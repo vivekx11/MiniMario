@@ -5,7 +5,7 @@ namespace MiniMario;
 
 /// <summary>
 /// Heads-up display showing score, lives, and other game info
-/// </summary>
+/// 
 public class HUD
 {
     private Texture2D _pixelTexture;

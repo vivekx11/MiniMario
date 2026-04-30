@@ -31,7 +31,7 @@ public class TileMap
         _height = levelData.GetLength(0);
         _width = levelData.GetLength(1);
         
-        // Find spawn point and special tiles
+        // Find spawn point and special tiles ..
         FindSpecialTiles();
     }
     

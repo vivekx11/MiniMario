@@ -5,7 +5,7 @@ namespace MiniMario;
 
 /// <summary>
 /// Helper class for creating simple textures programmatically
-/// </summary>
+/// </summary>..
 public static class TextureHelper
 {
     /// <summary>
